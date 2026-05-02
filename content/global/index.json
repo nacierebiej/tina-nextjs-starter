@@ -51,8 +51,8 @@
     ]
   },
   "theme": {
-    "color": "blue",
+    "color": "orange",
     "font": "sans",
-    "darkMode": "light"
+    "darkMode": "dark"
   }
 }
