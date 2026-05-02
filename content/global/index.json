@@ -3,7 +3,7 @@
     "icon": {
       "name": "BiLandscape",
       "color": "red",
-      "style": "circle"
+      "style": "float"
     },
     "name": "PNW Scouting",
     "color": "default",
